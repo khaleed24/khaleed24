@@ -6,6 +6,7 @@
 ---
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaleed24&layout=compact&theme=radical)
+
 ![khaleed24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaleed24&show_icons=true&theme=radical)
 
 ---
