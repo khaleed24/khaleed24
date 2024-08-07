@@ -6,13 +6,14 @@
 ---
 ## 📊 GitHub Stats
 <a href="https://github.com/khaleed24/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=khaleed24" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=khaleed24" /> &nbsp
 </a>
 <a href="https://github.com/khaleed24/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaleed24&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=khaleed24&theme=buefy-dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=khaleed24&theme=default)](https://git.io/streak-stats)
 
 
 ---
