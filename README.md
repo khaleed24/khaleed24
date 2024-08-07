@@ -5,23 +5,14 @@
 
 ---
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaleed24&layout=compact&theme=radical)
-
-![khaleed24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaleed24&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=khaleed24&theme=buefy-dark)](https://git.io/streak-stats)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khaleed24&repo=github-readme-stats)](https://github.com/khaleed24/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaleed24&langs_count=8)
-
 <a href="https://github.com/khaleed24/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=khaleed24" />
 </a>
 <a href="https://github.com/khaleed24/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaleed24&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=khaleed24&theme=buefy-dark)](https://git.io/streak-stats)
 
 
 ---
