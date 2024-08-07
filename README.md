@@ -9,7 +9,7 @@
 
 ![khaleed24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaleed24&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=khaleed24)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=khaleed24&theme=blue-green)](https://git.io/streak-stats)
 
 ---
 ### 🛠️ Tools & Technologies
