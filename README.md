@@ -9,9 +9,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=khaleed24" /> &nbsp &nbsp &nbsp
 </a>
 <a href="https://github.com/khaleed24/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaleed24&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaleed24&layout=compact&langs_count=8&card_width=320" /> <br>
 </a>
-<br>
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=khaleed24&theme=default)](https://git.io/streak-stats)
 
