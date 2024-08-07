@@ -9,7 +9,33 @@
 
 ![khaleed24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaleed24&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=khaleed24&theme=blue-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=khaleed24&theme=buefy-dark)](https://git.io/streak-stats)
+
+[![khaleed24's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaleed24)](https://github.com/khaleed24/github-readme-stats)
+
+![khaleed24's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaleed24&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaleed24)](https://github.com/khaleed24/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaleed24&size_weight=0.5&count_weight=0.5)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaleed24&layout=donut)](https://github.com/khaleed24/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaleed24&layout=donut-vertical)](https://github.com/khaleed24/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaleed24&layout=pie)](https://github.com/khaleed24/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khaleed24&repo=github-readme-stats)](https://github.com/khaleed24/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaleed24&langs_count=8)
+
+<a href="https://github.com/khaleed24/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=khaleed24" />
+</a>
+<a href="https://github.com/khaleed24/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaleed24&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 
 ---
 ### 🛠️ Tools & Technologies
